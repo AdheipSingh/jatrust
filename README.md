@@ -8,4 +8,4 @@
 - compare schema of event 1 and event 2.
 - all events coming from a stream should be validated
 
-## Author: tuada peo
+### Author: tuada peo
