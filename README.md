@@ -7,3 +7,7 @@
 - read json file and infer schema.
 - compare schema of event 1 and event 2.
 - all events coming from a stream should be validated
+
+## record-batch 
+
+- create record batch from json file by infer schema
